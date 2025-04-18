@@ -15,6 +15,6 @@
 .env.development.local
 .env.test.local
 .env.production.local
-.code-workspace
+*.code-workspace
 
 npm-debug.log*
